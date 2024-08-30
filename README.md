@@ -1,5 +1,5 @@
 ## Seja bem Vindo 
-Prazer, sou o Raphael Maximowski, atualmente estou dedicando meu tempo para aprimorar minhas Skills com Laravel e Vue.js
+Prazer, sou o Raphael Maximowski, atualmente estou dedicando meu tempo totalmente a uma nova aplicação desenvolvido com React e Laravel!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Raphael-Maximowski&theme=discord_old_blurple" />
