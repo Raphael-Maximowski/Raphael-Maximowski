@@ -1,5 +1,5 @@
 ## Seja bem Vindo 
-Prazer, sou o Raphael Maximowski, atualmente estou dedicando meu tempo totalmente a uma nova aplicação desenvolvida com React e Laravel!
+Prazer, me chamo Raphael Maximowski, atualment estou focado na criação de um SAAS desenvolvido com Vue.js e Laravel
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Raphael-Maximowski&theme=discord_old_blurple" />
