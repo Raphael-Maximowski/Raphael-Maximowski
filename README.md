@@ -1,4 +1,4 @@
-## Seja bem Vindo 
+## Seja bem Vindo!
 Prazer, me chamo Raphael Maximowski, atualment estou focado na criação de um SAAS desenvolvido com Vue.js e Laravel
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
